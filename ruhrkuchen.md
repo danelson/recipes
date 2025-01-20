@@ -1,19 +1,17 @@
 # Rührkuchen
 
-
-
 ## Ingredients
 
 | Amount | Ingredient |
 | ------ | ---------- |
-| 1/2 lb | butter |
-| 2 cup (scant) | sugar |
-| 6 | egg yolks |
-| 6 | egg whites |
-| 1 tsp | almond extract[^1] |
 | 2 cup | flour |
 | 2 tsp | baking powder |
 | 1/4 tsp | salt |
+| 6 | egg yolks |
+| 6 | egg whites |
+| 1/2 lb | butter |
+| 2 cup (scant) | sugar |
+| 1 tsp | almond extract[^1] |
 | 1/2 cup | cold milk |
 
 ## Instructions
