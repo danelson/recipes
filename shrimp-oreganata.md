@@ -4,7 +4,7 @@
 
 | Amount | Ingredient |
 | ------ | ---------- |
-| 1 lbs | jumbo shrimp |
+| 2 lbs | jumbo shrimp |
 | 2 tbsp | dry white wine |
 | 1 tbsp | lemon juice |
 | 1 tsp | lemon zest |
