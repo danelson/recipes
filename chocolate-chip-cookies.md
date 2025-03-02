@@ -2,6 +2,8 @@
 
 Yields about 26 cookies.
 
+<img src="images/chocolate-chip-cookies.png" alt="chocolate chip cookies"/>
+
 ## Ingredients
 
 | Amount | Ingredient |
@@ -9,7 +11,7 @@ Yields about 26 cookies.
 | 8 ounces | unsalted butter |
 | 14 ounces | light brown sugar |
 | 1 tablespoon | vanilla extract |
-| 2 | eggs | 
+| 2 | eggs |
 | 13 ounces | all purpose flour |
 | 1 teaspoon | baking soda |
 | 1 1/2 teaspoon | salt |
