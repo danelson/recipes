@@ -7,7 +7,7 @@
 | 1/2 cup | unsalted butter |
 | 2 tablespoons | granulated sugar |
 | 2 tablespoons | turbinado sugar |
-| 3/4 cup + 2 tbsp | light or dark brown sugar | 
+| 3/4 cup + 2 tbsp | light or dark brown sugar |
 | 1 | egg |
 | 1 tsp | vanilla extract |
 | 3/4 tsp | baking soda |

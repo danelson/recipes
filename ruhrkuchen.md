@@ -25,7 +25,7 @@
 
 ### Recipe
 
-1. In a bowl, sift flour, baking poweder, and salt.
+1. In a bowl, sift flour, baking powder, and salt.
 1. In another bowl, beat egg whites until firm/stiff peaks.
 1. In another bowl, cream softened butter.
     1. Add in sugar and mix.

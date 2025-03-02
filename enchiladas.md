@@ -1,5 +1,7 @@
 # Skillet Enchiladas
 
+<img src="images/enchiladas.png" alt="enchiladas"/>
+
 ## Ingredients
 
 | Amount | Ingredient |
@@ -7,7 +9,7 @@
 | 1 tbsp | olive oil |
 | 1 | large yellow onion |
 | 1 | large red bell pepper |
-| 1 | jalapeño | 
+| 1 | jalapeño |
 | 1 | medium zucchini |
 | 2 | garlic cloves |
 | 1 can (15 oz) | black beans |
