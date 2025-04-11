@@ -24,7 +24,7 @@ Yields about 18 cookies.
 
 ### Prep
 
-- Cut chocolate into largish chunks (+- 5 grams). Don't worry if it breaks into smaller pieces. If using feves, leave them as is.
+- Cut chocolate into largish chunks (~ 5 grams). Don't worry if it breaks into smaller pieces. If using feves, leave them as is.
 
 ### Recipe
 
